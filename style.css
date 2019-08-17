@@ -46,6 +46,10 @@ footer {
     color: black;
   }
 
+  .header{
+    opacity: 0.6;
+  }
+
   footer{
     font-weight: 600;
   }
@@ -59,3 +63,4 @@ footer {
       margin-top: 10%;
       line-height: 2;
   }
+
