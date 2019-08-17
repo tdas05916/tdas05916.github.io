@@ -1,5 +1,5 @@
 .container {
-    margin-top: 7%;
+    margin-top: 15%;
 }
 img {
     border-radius: 66px;
@@ -33,6 +33,7 @@ footer {
     text-align: center;
     padding: 15px;
     text-decoration: none;
+    /* font-family: 'Slabo 27px', serif; */
   }
   
   a:hover {
@@ -43,4 +44,18 @@ footer {
   #navbar a:hover {
     background-color: #ddd;
     color: black;
+  }
+
+  footer{
+    font-weight: 600;
+  }
+
+  .work-heading{
+      text-align: center;
+      font-weight: 500;
+  }
+
+  footer{
+      margin-top: 10%;
+      line-height: 2;
   }
